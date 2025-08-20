@@ -1,2 +1,2 @@
-# C-digos-C-
+# Códigos C#
 Ejercicios asignatura .Net
